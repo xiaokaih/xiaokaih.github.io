@@ -17,6 +17,7 @@ titles:
   ko-KR   : *KO
 key: page-about
 show_title: false
+comment: false
 ---
 
  ![]({{ site.url }}/assets/images/about.JPG)
